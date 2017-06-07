@@ -3,17 +3,21 @@
 }
 .fondo {     
     background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
+    background-size: cover; 
+    background-position: bottom;
 }
 
 .fondo_ride {
-    background-color: bisque;
-    background-size: contain;
-    background-image: url("../assets/img/aventon.png");
-    transition-timing-function: ease-in;
+    background-image: url("../assets/img/d_aventon.png");
 }
-
 .fondo_gif {
     background-image: url("https://metrouk2.files.wordpress.com/2014/10/1.gif?w=620&h=0&crop=1");
+}
+
+.mtop_7 {
+    margin-top: 7vh;
+}
+
+.mtop_70 {
+    margin-top: 70vh;
 }
