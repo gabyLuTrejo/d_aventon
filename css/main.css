@@ -21,3 +21,46 @@
 .mtop_70 {
     margin-top: 70vh;
 }
+
+.mbottom_5 {
+    margin-bottom: 5vh;
+}
+
+h3.mbottom_3 {
+    margin-bottom: 3vh;
+}
+
+.margin-none {
+    margin: 0;
+}
+
+.pdtop_3 { padding-top: 3vh; }
+
+.material-icons.md-48 { font-size: 48px; }
+
+.material-icons.orange600 { color: #e65100; }
+
+.text-black { color: #000; }
+
+.img-size {
+    max-width: 40px;
+    height: auto;
+}
+
+.h-50 { height: 50px; }
+
+.row .col.vcenter { padding-top: 6px; }
+
+.fsize-l { font-size: large; }
+
+.next {
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+}
+
+input[type=tel].fsize-xl { font-size: x-large; margin-top: -12px;}
+
+footer div.row { margin-bottom: 0; }
+
+footer.row a.col { padding: 0; }
